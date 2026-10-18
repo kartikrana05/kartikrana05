@@ -1,12 +1,12 @@
-# Hi there, I'm Kartik Rana 👋
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E90FA&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer+(Heavy+Backend);Building+Production+Systems+End-to-End;REST+APIs+•+Data+Pipelines+•+Databases;Learning+and+Building)](https://git.io/typing-svg)
+# Hi there, I'm Kartik Rana 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=660&lines=Full-Stack+Software+Engineer+(Heavy+Backend);Building+Production+Systems+End-to-End;REST+APIs+•+Data+Pipelines+•+Databases;Learning+and+Building)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://linkedin.com/in/kartik-rana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kartikrana3332@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/kartik-rana-41744b255"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kartik33332@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/kartikrana05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -83,10 +83,10 @@ I build production systems end-to-end — REST APIs, business logic, data pipeli
 ### 🤝 Get in Touch
 
 <p align="center">
-  <a href="mailto:kartikrana3332@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kartikrana3332%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:kartik33332@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kartik33332%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/kartik-rana" target="_blank">
+  <a href="https://linkedin.com/in/kartik-rana-41744b255" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/kartikrana05">
