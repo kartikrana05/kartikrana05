@@ -8,6 +8,7 @@
   <a href="https://linkedin.com/in/kartik-rana-41744b255"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kartik33332@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/kartikrana05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=kartikrana05&label=Profile%20Views&color=2E90FA&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
